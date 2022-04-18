@@ -6,3 +6,4 @@ pasta
 chocolate
 meat
 butter
+eggs
