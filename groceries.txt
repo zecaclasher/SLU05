@@ -7,3 +7,4 @@ chocolate
 meat
 butter
 eggs
+soap
