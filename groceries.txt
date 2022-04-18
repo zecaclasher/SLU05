@@ -5,3 +5,4 @@ rice
 pasta
 chocolate
 meat
+butter
